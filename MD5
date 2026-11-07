@@ -1,0 +1,11 @@
+f2ee8b309b829a4dfd0c1b7a3b56627c *DESCRIPTION
+20e2ed03b588eb62b877c935ec52fc68 *NAMESPACE
+828c174cc67fa79f9b46ef212497a4ce *R/ARISEFS.R
+868a2949f383a4b2badca46eb458a106 *data/NovartisMultiTissue.R
+d9fc1726049e7699494ea915f9beea44 *data/datalist
+92be9452525dbe0d658b765393a38b23 *inst/CITATION
+e0d2bb9f6a9e6aa567fc2c3d3bf633e8 *inst/extdata/novartis_multi_tissue.csv.gz
+a4321061b05c6059f91401a83a65c556 *man/ARISE-package.Rd
+3ac612c0938f9d6017509f682fcb3ad3 *man/ARISEFS.Rd
+d2a15d90857a530557f85f400924a42e *man/NovartisMultiTissue.Rd
+aa2ec291f8da62e11324f835fdc00d13 *tests/regression.R

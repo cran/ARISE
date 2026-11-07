@@ -1,0 +1,14 @@
+bibentry(
+  bibtype = "Article",
+  title = "{ARISE}: An adaptive residual-informed stability ensemble for feature selection in small-sample biomedical omics",
+  author = c(
+    person("Zardad", "Khan"),
+    person("Amjad", "Ali"),
+    person("Naz", "Gul"),
+    person("Saeed", "Aldahmani")
+  ),
+  journal = "arXiv preprint arXiv:2608.14866",
+  year = "2026",
+  doi = "10.48550/arXiv.2608.14866",
+  url = "https://arxiv.org/abs/2608.14866"
+)

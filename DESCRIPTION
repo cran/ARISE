@@ -1,0 +1,33 @@
+Package: ARISE
+Type: Package
+Title: Adaptive Residual-Informed Stability Ensemble Feature Selection
+Version: 0.1.0
+Authors@R: c(
+    person("Zardad", "Khan", email = "zaar@uaeu.ac.ae", role = "aut"),
+    person("Amjad", "Ali", email = "amjadali@uaeu.ac.ae", role = c("aut", "cre")),
+    person("Naz", "Gul", role = "aut"),
+    person("Saeed", "Aldahmani", email = "saldahmani@uaeu.ac.ae", role = "aut")
+    )
+Author: Zardad Khan [aut],
+  Amjad Ali [aut, cre],
+  Naz Gul [aut],
+  Saeed Aldahmani [aut]
+Maintainer: Amjad Ali <amjadali@uaeu.ac.ae>
+Description: Provides the Adaptive Residual-Informed Stability Ensemble
+    ('ARISE') method for supervised feature selection in small-sample
+    biomedical omics. The method combines complementary relevance components,
+    class-balanced subsample stability, residual-informed redundancy control,
+    multiclass pair coverage, nested profile racing, and soft consensus.
+    The main function returns only the column indices of the top-ranked
+    features. Method details are described by Zardad Khan, Amjad Ali,
+    Naz Gul, and Saeed Aldahmani (2026)
+    <doi:10.48550/arXiv.2608.14866>.
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+Depends: R (>= 4.1.0)
+Imports: e1071, matrixStats, randomForest, stats, utils
+NeedsCompilation: no
+Packaged: 2026-10-24 00:00:00 UTC; Amjad Ali
+Repository: CRAN
+Date/Publication: 2026-11-07 17:00:38 UTC

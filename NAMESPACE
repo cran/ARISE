@@ -1,0 +1,6 @@
+export(ARISEFS)
+importFrom(e1071,svm)
+importFrom(matrixStats,colMaxs,colMins,colQuantiles,colRanks,colVars)
+importFrom(randomForest,randomForest)
+importFrom(stats,aggregate,median,plogis,predict,quantile,sd,setNames)
+importFrom(utils,combn,head)
